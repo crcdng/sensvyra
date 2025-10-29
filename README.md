@@ -1,9 +1,9 @@
 # Cyberdelic Hackathon Boilerplate
 
-A Unity 6 project template for rapid prototyping of cyberdelic and XR experiences.  
+A Unity 6 project template for rapid prototyping of cyberdelic mixed reality experiences.  
 It combines audio-reactive visuals, passthrough color grading, and real-time NDI, MIDI, and OSC input for immersive, multi-sensory installations.
 
-Developed for the **[Cyberdelic Hackathon](https://www.cyberdelic.nexus/cyberdelic-hackathon)** — an experimental gathering exploring consciousness, creativity, and technology.
+Developed for our first **[Cyberdelic Hackathon](https://www.cyberdelic.nexus/cyberdelic-hackathon)** — a gathering for XR developers, artists, musicians and designers to co-create a mixed-reality platform inspired by synesthesia.
 
 ---
 
