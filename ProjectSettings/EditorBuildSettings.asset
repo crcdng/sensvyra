@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Otherworld Projection.unity
     guid: e4e46e2efac0ef240a70fbd531270ef2
   - enabled: 1
-    path: Assets/Main Scene.unity
+    path: Assets/Scenes/Main Scene.unity
     guid: d035539529cdf4d04b4475f79e0457f6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: cabea8e7c0963c847aa22ca12b2ebd0e,
