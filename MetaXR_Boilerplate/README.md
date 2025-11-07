@@ -28,13 +28,16 @@ Requires **Android Build Support**, **Vulkan**, and **Meta XR SDK** enabled.
 
 1. **Clone or download this repository.**  
 2. Open the project with **Unity 6 (6000.2.8f1)** or newer.  
-3. In the **Build Profile dropdown (top toolbar)**, change the **build target to Android**.  
-4. Go to **Edit → Project Settings → XR Plug-in Management → Android**  
+3. In **File → Build Settings**, set the **Platform** to **Meta Quest** and click **Switch Platform**.  
+4. Open **Edit → Project Settings → XR Plug-in Management → Android**  
    - Enable **OpenXR** as the only loader.  
    - Disable **Oculus** if present.  
-5. Run **Meta XR → Tools → Project Setup** to configure permissions and Vulkan settings.  
-6. Connect your **Meta Quest** headset and build to device.  
-7. Use the **Main Scene** as a starting point for your own experiments.
+   - Tick **Initialize XR on Startup** to enable **Quest Link** and proper OpenXR initialization.  
+5. Go to **Meta XR → Tools → Project Setup** and click **Fix All** for both **Windows** and **Oculus/Android** configurations.  
+   This ensures all required permissions, graphics APIs, and manifest entries are correctly set up.  
+6. Connect your **Meta Quest** headset via Link or USB.  
+7. Build and run the project on device.  
+8. Use the **Main Scene** as a clean starting point for your own audio-reactive passthrough experiments.
 
 **Note:**  
 The `Audio Source` used for analysis must include a **Microphone Input** component.  
