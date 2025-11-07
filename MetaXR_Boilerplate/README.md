@@ -14,6 +14,7 @@ Based on the **Synedelica** codebase by **John Desnoyers-Stewart**, this project
 ### Scenes
 - **Main Scene** – Clean boilerplate setup for your own audio-reactive passthrough experiments.  
 - **Synedelica** – Original Synedelica demo scene demonstrating multiple visuals and transitions.
+- **Webcam Shader Scene** – Manipulation of direct webcam pixel data with custom shader (only monoscopic)
 
 ---
 
