@@ -949,11 +949,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: abd6c5b8-7ec8-4036-b4ab-ce751ba1f577
+  cloudProjectId: 6caf1a93-3580-41db-b5e9-be9cdcb76ee9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Cyberdelic Hackathon Bopilerplate (Synedelica)
+  organizationId: michael-straeubig
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
