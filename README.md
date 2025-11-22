@@ -1,6 +1,6 @@
 # Sensvyra Project
 
-Hackathon Boilerplate adapted by Team Sensvyra for Cyberdelic Hackathon, c-base, Nov 8-9 2025 
+This code is by Team Sensvyra initially created at Cyberdelic Hackathon, c-base, Nov 8-9 2025 and exhibited at GamesGround Berlin 2025. Based on Hackathon Boilerplate provided by phreax. 
 
 crcdng Moritz Federlein Paula Ducatenzeiler Metanoic Vision
 Anja Frank Güngör Kocak Sophie Adler Jan Sladecko
