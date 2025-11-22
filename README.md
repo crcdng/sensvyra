@@ -5,11 +5,7 @@ Hackathon Boilerplate adapted by Team Sensvyra for Cyberdelic Hackathon, c-base,
 crcdng Moritz Federlein Paula Ducatenzeiler Metanoic Vision
 Anja Frank Güngör Kocak Sophie Adler Jan Sladecko
 
-Open the folder in Unity Hub:
-
-1. Launch Unity Hub
-2. Click Add project from disk
-3. Select MetaXR_Boilerplate
+Work in Progress, Unity 6.2
    
 ## License
 
